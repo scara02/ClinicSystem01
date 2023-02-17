@@ -1,6 +1,5 @@
 package clinic.entities;
 
-
 public class Patient {
     private Integer id;
     private String name;

@@ -1,6 +1,5 @@
 package clinic;
 
-
 import clinic.controllers.AddedSymptomController;
 import clinic.controllers.PatientController;
 import clinic.controllers.SymptomsController;
