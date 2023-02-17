@@ -1,5 +1,6 @@
 package clinic.entities;
 
+
 public class AddedSymptoms {
     private int patientId;
     private String symptomTitle;

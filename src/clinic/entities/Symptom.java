@@ -1,5 +1,6 @@
 package clinic.entities;
 
+
 public class Symptom {
 
     private String title;
